@@ -83,11 +83,3 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 <img src="https://github-contributor-stats.vercel.app/api?username=nujgnil&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 ---
-
-
-## 📈 Top Contributed Repos  
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=nujgnil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
