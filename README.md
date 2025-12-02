@@ -12,24 +12,36 @@ I'm an MSc Data Science student with a background in Robotics & AI. I focus on a
 Skilled in Python for data science & machine learning, with additional experience in C/C++ for algorithms and robotics.
 
 ### 🔤 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+| Icon | Name |
+|------|------|
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | Python |
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | C |
+| <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | C++ |
 
 ### 📊 Data Science & Machine Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" />
-</p>
+| Icon | Name |
+|------|------|
+| <img src="https://skillicons.dev/icons?i=numpy" width="40"/> | NumPy |
+| <img src="https://skillicons.dev/icons?i=pandas" width="40"/> | Pandas |
+| <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> | scikit-learn |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> | TensorFlow |
+| <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> | PyTorch |
 
 ### 📈 Visualisation  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=matplotlib,plotly" />
-</p>
+| Icon | Name |
+|------|------|
+| <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/> | Matplotlib |
+| <img src="https://skillicons.dev/icons?i=plotly" width="40"/> | Plotly |
 
 ### 🛠 Tools & Environments  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,vscode,pycharm,git,github" />
-</p>
+| Icon | Name |
+|------|------|
+| <img src="https://skillicons.dev/icons?i=jupyter" width="40"/> | Jupyter Notebook |
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | VS Code |
+| <img src="https://skillicons.dev/icons?i=pycharm" width="40"/> | PyCharm |
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | Git |
+| <img src="https://skillicons.dev/icons?i=github" width="40"/> | GitHub |
+
 
 ---
 
