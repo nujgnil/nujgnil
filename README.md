@@ -9,38 +9,25 @@ I'm an MSc Data Science student with a background in Robotics & AI. I focus on a
 ---
 
 ## 💻 Tech Stack  
-Skilled in Python for data science & machine learning, with additional experience in C/C++ for algorithms and robotics.
+Python for data science & machine learning • C/C++ for algorithms and robotics.
 
 ### 🔤 Languages  
-| Icon | Name |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=python" width="40"/> | Python |
-| <img src="https://skillicons.dev/icons?i=c" width="40"/> | C |
-| <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | C++ |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### 📊 Data Science & Machine Learning  
-| Icon | Name |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=numpy" width="40"/> | NumPy |
-| <img src="https://skillicons.dev/icons?i=pandas" width="40"/> | Pandas |
-| <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> | scikit-learn |
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> | TensorFlow |
-| <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> | PyTorch |
+### 📊 Data & ML  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 ### 📈 Visualisation  
-| Icon | Name |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/> | Matplotlib |
-| <img src="https://skillicons.dev/icons?i=plotly" width="40"/> | Plotly |
-
-### 🛠 Tools & Environments  
-| Icon | Name |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=jupyter" width="40"/> | Jupyter Notebook |
-| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | VS Code |
-| <img src="https://skillicons.dev/icons?i=pycharm" width="40"/> | PyCharm |
-| <img src="https://skillicons.dev/icons?i=git" width="40"/> | Git |
-| <img src="https://skillicons.dev/icons?i=github" width="40"/> | GitHub |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 
 ---
