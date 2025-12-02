@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science practitioner with a background in Robotics and AI, currently pursuing my MSc in Data Science. My work focuses on applied machine learning, data analysis, and building reproducible pipelines. I enjoy turning complex problems into clear, data-driven insights and developing models that solve real-world challenges.<br>
+I'm a Msc Data Science Student  practitioner with a background in Robotics and AI. My work focuses on applied machine learning, data analysis, and building reproducible pipelines. I enjoy turning complex problems into clear, data-driven insights and developing models that solve real-world challenges.<br>
 
 
 ## 🌐 Socials:
