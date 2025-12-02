@@ -61,11 +61,20 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ## 📊 GitHub Stats  
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nujgnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nujgnil&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nujgnil&theme=dark&hide_border=false&layout=compact)
+## 📊 GitHub Stats  
+<div align="center">
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=nujgnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=nujgnil&theme=dark&hide_border=false" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nujgnil&theme=dark&hide_border=false&layout=compact" />
 
 </div>
+
 
 ---
 
