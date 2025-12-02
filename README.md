@@ -61,9 +61,6 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ## 📊 GitHub Stats  
 <div align="center">
 
-## 📊 GitHub Stats  
-<div align="center">
-
 <!-- Main Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=nujgnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
@@ -74,6 +71,20 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nujgnil&theme=dark&hide_border=false&layout=compact" />
 
 </div>
+
+---
+
+## 🔥 Additional Stats (Optional Enhancements)
+
+### 🎨 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nujgnil&theme=react-dark" width="95%"/>
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=nujgnil&theme=radical&no-bg=true&margin-w=4" />
+
+### 📌 Contributor Stats
+<img src="https://github-contributor-stats.vercel.app/api?username=nujgnil&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
 
 
 ---
