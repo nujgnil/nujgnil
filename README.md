@@ -48,6 +48,44 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ![UART](https://img.shields.io/badge/UART-7B1FA2?style=flat&logoColor=white&borderRadius=50)
 
 ---
-
 </div>
 
+---
+
+## Portfolio
+
+### GDP vs Life Expectancy Analysis
+- Investigated the socio-economic relationship between GDP per capita and life expectancy using global OWID datasets.
+- Implemented full data cleaning and transformation workflow with Pandas.
+- Conducted correlation analysis and KMeans clustering to uncover development inequality patterns.
+- Produced clear visualisations showing diminishing returns at higher GDP levels.
+**Repo:** https://github.com/nujgnil/GDP-V-LifeExpectancy
+
+---
+
+### World Happiness Report – Clustering & Fitting Analysis
+- Harmonised multi-year datasets (2015–2019) with inconsistent schema.
+- Built models to quantify key factors affecting national happiness such as social support, corruption perception, and economic prosperity.
+- Used Elbow/Silhouette scores to determine optimal clustering.
+- Applied regression modelling to support interpretability of findings.
+**Repo:** https://github.com/nujgnil/World-Happiness-Report-Clustering-Fitting-Analysis
+
+---
+
+### Transfer Learning Study – ResNet50 Performance
+- Evaluated how different fine-tuning strategies influence model performance in image classification.
+- Compared feature-extraction vs. deeper layer unfreezing approaches.
+- Analysed performance metrics including accuracy curves and confusion matrices.
+- Delivered recommendations on balancing generalisation and training efficiency.
+**Repo:** https://github.com/nujgnil/How-Fine-Tuning-Affects-Transfer-Learning-Performance-A-Study-Using-ResNet50-and-TensorFlow
+
+---
+
+### Heart Disease EDA Pipeline
+- Developed an exploratory data analysis and preprocessing pipeline for patient heart-disease risk prediction.
+- Performed feature correlation, distribution analysis, and normalization.
+- Identified key clinical risk indicators for downstream ML modeling.
+- Ensured reproducibility with structured code and documented transformations.
+**Repo:** https://github.com/nujgnil/heart-disease-eda-pipeline
+
+---
