@@ -1,23 +1,23 @@
-# 👋 About Me  
+#  About Me  
 I'm an MSc Data Science student with a background in Robotics & AI. I focus on applied machine learning, data analysis, and building reproducible end-to-end pipelines. I enjoy turning complex datasets into clear insights and developing models that address real-world challenges.
 
 ---
 
-## 🌐 Socials  
+##  Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leelingjun/)
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 Python for data science & machine learning • C/C++ for algorithms, robotics & embedded systems.
 
-### 🔤 Languages  
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB&color=3776AB&borderRadius=50)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black&color=A8B9CC&borderRadius=50)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&color=00599C&borderRadius=50)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white&color=0076A8&borderRadius=50)
 
-### 📊 Data Science & ML  
+###  Data Science & ML  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&borderRadius=50)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&borderRadius=50)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&borderRadius=50)
@@ -27,12 +27,12 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white&borderRadius=50)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-0277BD?style=flat&logoColor=white&borderRadius=50)
 
-### 📈 Visualisation  
+###  Visualisation  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black&borderRadius=50)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat&logoColor=white&borderRadius=50)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white&borderRadius=50)
 
-### 🛠 Tools & Environments  
+###  Tools & Environments  
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visualstudiocode&logoColor=white&borderRadius=50)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white&borderRadius=50)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&borderRadius=50)
@@ -40,7 +40,7 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&borderRadius=50)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&borderRadius=50)
 
-### 🤖 Robotics & Embedded Systems  
+###  Robotics & Embedded Systems  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logoColor=white&borderRadius=50)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white&borderRadius=50)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-FF6C37?style=flat&logoColor=white&borderRadius=50)
