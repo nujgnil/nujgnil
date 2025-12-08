@@ -49,37 +49,5 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 
 ---
 
-
-## 📌 Featured Projects
-- 🔍 **CO₂ Emission Pipeline** – End-to-end data pipeline with preprocessing, visualisation, and modelling.  
-- 🐶 **Stanford Dogs Classifier** – Transfer-learning image classifier using EfficientNet/ResNet.  
-- 🤖 **Robot Control UI (MATLAB)** – UI + simulation for mobile robot operations.  
-- 🧠 **Moral Reasoning in AI** – MSc research inspired by Searle’s Chinese Room & NormBank/MoReBench datasets.
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-
-<!-- Streak Stats (official stable mirror) -->
-<img src="https://streak-stats.demolab.com?user=nujgnil&theme=dark&hide_border=false" />
-
 </div>
 
-
-
-</div>
-
----
-##
-
-### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nujgnil&theme=react-dark" width="95%"/>
-
-### GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=nujgnil&theme=radical&no-bg=true&margin-w=4" />
-
-### Contributor Stats
-<img src="https://github-contributor-stats.vercel.app/api?username=nujgnil&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
----
