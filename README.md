@@ -91,7 +91,7 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 ---
 ---
 
-## 📂 Portfolio
+##  Portfolio
 
 ### GDP vs Life Expectancy Analysis
 - Investigated the socio-economic relationship between GDP per capita and life expectancy using global OWID datasets.
