@@ -78,14 +78,14 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 **Repo:** https://github.com/nujgnil/How-Fine-Tuning-Affects-Transfer-Learning-Performance-A-Study-Using-ResNet50-and-TensorFlow
 
 ---
-Customer Support Agent – OpenAI & AzureML End-to-End Pipeline
-Built an end-to-end customer support agent using OpenAI, FAISS, Streamlit, and AzureML.
-Created a RAG pipeline that retrieves relevant product documentation before generating grounded support responses.
-Implemented ticket preprocessing, sentiment analysis, issue categorization, and automated response generation.
-Used OpenAI embeddings with FAISS vector search to power the knowledge base retrieval layer.
-Developed a Streamlit dashboard for interactive ticket analysis and support response review.
-Added AzureML deployment configuration for serving the agent as a managed online endpoint.
-Included sample support tickets, product documentation, setup instructions, and lightweight tests for local validation.
+### Customer Support Agent – OpenAI & AzureML End-to-End Pipeline
+- Built an end-to-end customer support agent using OpenAI, FAISS, Streamlit, and AzureML.
+- Created a RAG pipeline that retrieves relevant product documentation before generating grounded support responses.
+- Implemented ticket preprocessing, sentiment analysis, issue categorization, and automated response generation.
+- Used OpenAI embeddings with FAISS vector search to power the knowledge base retrieval layer.
+- Developed a Streamlit dashboard for interactive ticket analysis and support response review.
+- Added AzureML deployment configuration for serving the agent as a managed online endpoint.
+- Included sample support tickets, product documentation, setup instructions, and lightweight tests for local validation.
 **Repo:** https://github.com/nujgnil/end_to_end_MLOps_pipeline_and_deploy_on_GCP
 
 ### Coming soon: AI Ethics Major project (Msc major project)
