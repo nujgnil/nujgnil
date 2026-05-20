@@ -78,15 +78,15 @@ Python for data science & machine learning • C/C++ for algorithms, robotics & 
 **Repo:** https://github.com/nujgnil/How-Fine-Tuning-Affects-Transfer-Learning-Performance-A-Study-Using-ResNet50-and-TensorFlow
 
 ---
-
-### Heart Disease EDA Pipeline
-- Developed an exploratory data analysis and preprocessing pipeline for patient heart-disease risk prediction.
-- Performed feature correlation, distribution analysis, and normalization.
-- Identified key clinical risk indicators for downstream ML modeling.
-- Ensured reproducibility with structured code and documented transformations.
-**Repo:** https://github.com/nujgnil/heart-disease-eda-pipeline
-
----
+Customer Support Agent – OpenAI & AzureML End-to-End Pipeline
+Built an end-to-end customer support agent using OpenAI, FAISS, Streamlit, and AzureML.
+Created a RAG pipeline that retrieves relevant product documentation before generating grounded support responses.
+Implemented ticket preprocessing, sentiment analysis, issue categorization, and automated response generation.
+Used OpenAI embeddings with FAISS vector search to power the knowledge base retrieval layer.
+Developed a Streamlit dashboard for interactive ticket analysis and support response review.
+Added AzureML deployment configuration for serving the agent as a managed online endpoint.
+Included sample support tickets, product documentation, setup instructions, and lightweight tests for local validation.
+**Repo:** https://github.com/nujgnil/end_to_end_MLOps_pipeline_and_deploy_on_GCP
 
 ### Coming soon: AI Ethics Major project (Msc major project)
 - Early-research into how LLMs, philosophy and literature review of peer research works.
